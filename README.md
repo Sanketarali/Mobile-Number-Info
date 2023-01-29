@@ -4,6 +4,10 @@ A Python library to fetch service provider, location, and time zone information 
 # Installation
 To install the library, use pip:
 
+# Result
+![result](https://i.imgur.com/example.jpg)
+
+
 # Note
 The library uses free APIs for fetching the information and for some numbers, it might not be able to provide the information all the time. In such cases, it would return None
 
