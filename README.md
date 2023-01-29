@@ -5,7 +5,7 @@ A Python library to fetch service provider, location, and time zone information 
 To install the library, use pip:
 
 # Result
-![result](https://i.imgur.com/example.jpg)
+![result](https://github.com/Sanketarali/Mobile-Number-Info/blob/main/Screenshot%20(2324).png)
 
 
 # Note
