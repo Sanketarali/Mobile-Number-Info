@@ -2,7 +2,8 @@
 A Python library to fetch service provider, country, and time zone information of a mobile number.
 
 # Installation
-To install the library, use pip:
+To install the library,<br>
+use pip:
 
 # Result
 ![result](https://github.com/Sanketarali/Mobile-Number-Info/blob/main/Screenshot%20(2324).png)
